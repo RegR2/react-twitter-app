@@ -1,0 +1,15 @@
+.loginLink:link {
+  color: #1565c0;
+  text-decoration: none;
+}
+
+.loginLink:hover {
+  color: #1565c0;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.loginLink:visited {
+  color: #1565c0;
+  text-decoration: none;
+}

@@ -1,0 +1,12 @@
+.link:link {
+  color: #e3f2fd;
+}
+
+.link:hover {
+  color: #e3f2fd;
+  cursor: pointer;
+}
+
+.link:visited {
+  color: #e3f2fd;
+}
